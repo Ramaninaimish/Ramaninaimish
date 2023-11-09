@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Apple+System&size=30&duration=2500&pause=500&color=000000&width=435&lines=Hello+%F0%9F%91%8B+I+am+Anand;A+Passionate+Novice;Web+Developer+from+India." alt="Typing SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Apple+System&size=30&duration=2500&pause=500&color=000000&width=435&lines=Hello+%F0%9F%91%8B+I+am+Naimish;A+Passionate+Novice;Web+Developer+from+India." alt="Typing SVG">
 </a>
 </div>
 <img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
@@ -20,7 +20,7 @@
 ## 👨‍💻 Languages & Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"  title="CSS"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" title="PYTHON"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" title="Bootstrap"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  width="45" height="45" title="Windows"/>
