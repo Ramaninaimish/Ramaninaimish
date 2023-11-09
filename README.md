@@ -34,7 +34,7 @@
 &nbsp
 <img title="Bootstrap" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40px" height="40px">
 &nbsp
-<img title="PHP" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="50px">
+<img title="PHP" alt="PYTHON" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="50px">
 &nbsp
 <img title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px" heigth="50px">
 &nbsp
