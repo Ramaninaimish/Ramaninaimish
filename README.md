@@ -6,8 +6,8 @@
 <br><br>
 <a href="https://twitter.com/08_ramani" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/twitter/follow/RamaniNaimish?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
-<a href="https://www.github.com/ramaninaimish" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
+<a href="https://www.github.com/Ramaninaimish" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/Ramaninaimish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 
 
 ## 🙋 About me :
