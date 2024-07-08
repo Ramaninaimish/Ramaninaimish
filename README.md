@@ -12,7 +12,7 @@
 
 ## 🙋 About me :
 
-🎯 Currently learning **,python , PHP, SQL, JavaScript, AJAX, jQuery** <br>
+🎯 Currently learning **,python , PHP, SQL, JavaScript, C, Django** <br>
 👨‍🏭 **Mechanical Graduate** <br>
 🤩 Always excited and ready to **learn new skills👨‍🎓** <br>
 😍 Love Watching Movies 📽️, Photography📸, Reading 📖 <br>
