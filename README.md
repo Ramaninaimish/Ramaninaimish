@@ -13,7 +13,7 @@
 ## 🙋 About me :
 
 🎯 Currently learning **,python , PHP, SQL, JavaScript, C, Django** <br>
-👨‍🏭 **Mechanical Graduate** <br>
+👨‍🏭 **Master Of Computer Application** <br>
 🤩 Always excited and ready to **learn new skills👨‍🎓** <br>
 😍 Love Watching Movies 📽️, Photography📸, Reading 📖 <br>
 
@@ -41,8 +41,8 @@
 <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
 &nbsp -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramaninaimish&show_icons=true&locale=en&layout=compact" alt="Ramaninaimish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandnbarai&show_icons=true&locale=en" alt="anandnbarai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramaninaimish&show_icons=true&locale=en" alt="Ramaninaimish" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandnbarai&" alt="anandnbarai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramaninaimish&" alt="Ramaninaimish" /></p>
